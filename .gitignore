@@ -1,0 +1,7 @@
+springmvc-datajpa-security-demo/.classpath
+springmvc-datajpa-security-demo/.project
+*.jsdtscope
+springmvc-datajpa-security-demo/.settings/org.eclipse.jdt.core.prefs
+*.prefs
+springmvc-datajpa-security-demo/.settings/org.eclipse.wst.jsdt.ui.superType.name
+*.class

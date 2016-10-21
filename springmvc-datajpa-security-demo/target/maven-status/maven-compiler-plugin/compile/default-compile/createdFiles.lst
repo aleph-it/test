@@ -1,0 +1,16 @@
+com\sivalabs\springapp\web\controllers\UserResource.class
+com\sivalabs\springapp\entities\Role.class
+com\sivalabs\springapp\config\SecurityConfig.class
+com\sivalabs\springapp\entities\User.class
+com\sivalabs\springapp\web\config\WebMvcConfig.class
+com\sivalabs\springapp\dao\JpaUserDaoImpl.class
+com\sivalabs\springapp\config\AppConfig.class
+com\sivalabs\springapp\config\PersistenceConfig.class
+com\sivalabs\springapp\web\controllers\UserController.class
+com\sivalabs\springapp\web\config\SpringWebAppInitializer.class
+com\sivalabs\springapp\repositories\UserRepository.class
+com\sivalabs\springapp\services\UserService.class
+com\sivalabs\springapp\web\config\SecurityUser.class
+com\sivalabs\springapp\config\CustomUserDetailsService.class
+com\sivalabs\springapp\repositories\RoleRepository.class
+com\sivalabs\springapp\dao\UserDao.class
